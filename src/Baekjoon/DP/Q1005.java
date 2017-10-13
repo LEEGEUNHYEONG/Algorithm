@@ -1,8 +1,10 @@
-package Baekjoon;
+package Baekjoon.DP;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
+
+import Baekjoon.Baekjoon;
 
 /**
  * Created by LGH on 2017-09-28.

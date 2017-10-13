@@ -1,9 +1,11 @@
-package Baekjoon;
+package Baekjoon.DP;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
+
+import Baekjoon.Baekjoon;
 
 /**
  * Created by LGH on 2017-10-12.

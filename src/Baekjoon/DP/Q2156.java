@@ -1,6 +1,8 @@
-package Baekjoon;
+package Baekjoon.DP;
 
 import java.util.Scanner;
+
+import Baekjoon.Baekjoon;
 
 public class Q2156
 {

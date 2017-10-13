@@ -1,8 +1,10 @@
-package Baekjoon;
+package Baekjoon.DP;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
+import Baekjoon.Baekjoon;
 
 /**
  * Created by LGH on 2017-10-12.
@@ -42,21 +44,7 @@ public class Q9251
             }
         }
 
-
-
         System.out.println(lcs[l1][l2]);
-
-        /*
-        for(int i = 1; i <= l1; i++)
-        {
-            for(int j = 1; j <= l2; j++)
-            {
-                System.out.printf(lcs[i][j] + " ");
-            }
-            System.out.println();
-        }
-        */
-
 
     }
 }
