@@ -52,6 +52,7 @@ public class Q7576
 
         bfs(queue, box, width, height);
 
+        /*
         for(int i = 1; i <= height; i++)
         {
             for(int j = 1; j <= width; j++)
@@ -60,6 +61,7 @@ public class Q7576
             }
             System.out.println();
         }
+        */
 
         int result = 0;
 
